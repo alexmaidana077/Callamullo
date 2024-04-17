@@ -1,0 +1,10 @@
+#pendulum {
+    width: 2px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    transform-origin: center top;
+  }
+  
