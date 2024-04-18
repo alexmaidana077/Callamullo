@@ -7,5 +7,5 @@ function changeColor() {
   }
   
   // Cambiar el color cada 2 segundos
-  setInterval(changeColor, 1000);
+  setInterval(changeColor, 2000);
   
